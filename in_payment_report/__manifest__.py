@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Custom Payment Receipt Report',
+    'name': 'Print Payment Receipt',
     'version': '19.0.1.0',
     'category': 'Accounting/Reports',
     'summary': """
@@ -9,7 +9,7 @@
     """,
 
     'description': """
-Custom Payment Receipt Report
+Print Payment Receipt
 =============================
 
 This module customizes the default Odoo Payment Receipt report by:
