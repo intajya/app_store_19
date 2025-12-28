@@ -42,6 +42,7 @@ Compatible with Odoo 19.
     'data': [
         'views/report_payment_receipt.xml',
     ],
+    'images': ['static/description/icon1.png'],
 
     'installable': True,
     'application': False,
